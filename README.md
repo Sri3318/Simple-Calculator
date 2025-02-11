@@ -34,8 +34,7 @@ The **Simple Calculator** is a GUI-based application built with Python and Tkint
 - **Python** – Core programming language  
 - **Tkinter** – GUI framework for the user interface  
 
-## 📌 Screenshots  
-(You can add a screenshot of the calculator UI here.)  
+
 
 ## 📜 License  
 This project is open-source. Feel free to modify and improve it.  
